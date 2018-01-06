@@ -1,0 +1,13 @@
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/obj/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.csproj.CoreCompileInputs.cache
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/obj/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.AssemblyInfoInputs.cache
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/obj/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.AssemblyInfo.cs
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/obj/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.csprojResolveAssemblyReference.cache
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.deps.json
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.DataStore.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.DomainModels.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.DomainModels.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/bin/Debug/netcoreapp2.0/BreedInfo.DataStore.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/obj/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.StaticDataStore/obj/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.pdb

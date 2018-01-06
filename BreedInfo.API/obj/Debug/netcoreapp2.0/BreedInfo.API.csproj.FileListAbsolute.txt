@@ -1,0 +1,17 @@
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.API.deps.json
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.API.runtimeconfig.json
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.API.runtimeconfig.dev.json
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.API.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.API.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.DataStore.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.DomainModels.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.DataStore.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.DomainModels.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/bin/Debug/netcoreapp2.0/BreedInfo.StaticDataStore.pdb
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/obj/Debug/netcoreapp2.0/BreedInfo.API.csprojResolveAssemblyReference.cache
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/obj/Debug/netcoreapp2.0/BreedInfo.API.csproj.CoreCompileInputs.cache
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/obj/Debug/netcoreapp2.0/BreedInfo.API.AssemblyInfoInputs.cache
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/obj/Debug/netcoreapp2.0/BreedInfo.API.AssemblyInfo.cs
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/obj/Debug/netcoreapp2.0/BreedInfo.API.dll
+/Users/reva/Desktop/YL/PROJECTS/DOTNET/BreedInfoAPI/BreedInfo.API/obj/Debug/netcoreapp2.0/BreedInfo.API.pdb
